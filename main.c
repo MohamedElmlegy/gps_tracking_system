@@ -20,7 +20,7 @@ int main ()
 	
  while (1)
  {
-   int distance,w,x,y,z;
+   int distance = 117,w,x,y,z;
    PORTB_PIN_4 = 0x10;
    PORTB_PIN_6 = 0x00;
    PORTB_PIN_5 = 0x00;
